@@ -16,4 +16,4 @@
 
 ### Subir su rama local al repositorio
 - 1. Para subir la rama local al repositorio debo ejecutar el comando 'git push origin jmendoza'.
-- 2. Ya con esto me voy al GitHub remoto, actualizo la página y ya podré ver las dos ramas creadas.
+- 2. Ya con esto me voy al GitHub remoto, actualizo la página y ya podré ver las ramas creadas.
