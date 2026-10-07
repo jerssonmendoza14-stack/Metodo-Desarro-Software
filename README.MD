@@ -1,4 +1,4 @@
-# Metodologías de desarrollo de SOftware
+# Metodologías de desarrollo de Software UPB
 
 ## Inge Software
 
