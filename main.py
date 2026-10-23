@@ -1,11 +1,6 @@
-# from backend.producto import listarProductos
+#
+from frontend.menu import mostrarProducto
 
-# productos = listarProductos()
 
-# print(productos)
-
-from backend.producto import consultarProducto
-
-producto = consultarProducto("10")
-
-print(producto)
+if __name__ == "__main__":
+    mostrarProducto()
