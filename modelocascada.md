@@ -1,5 +1,8 @@
-## Metodología en cascada
+### Metodología en cascada
+
+## Posibles dificultades
 
 #Bueno mas que dificultades, teniendo en cuenta que era un proyecto pequeño, no muchas profe, de hecho la comunicación con mi compañero Jose Miguel Giraldo fue muy eficiente, nos comunicamos inicialmente para definir los roles, yo el Backend y él el Fronend, realice mi parte inicial que era desde la parte del back es decir el servidor y la configuración interna y el compañero realizó el front que es de cara al cliente, es decir el menú y todo lo que ve el usuario al ingresar.
 
 #Entonces la experiencia fue muy buena, porque fue una comunicación fluida y sin conflictos, sin embargo ambos sabemos que esto a gran escala, se pueden generar dificultades, en esta metodología en cascada pueden ser, la rigidez en los cambios, la dependencia de otros roles para la continuidad del proyecto, cuellos de botella en pruebas de integración entre otros.
+
