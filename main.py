@@ -1,6 +1,7 @@
 #
-from frontend.menu import mostrarProducto
+from backend.producto import actualizarProducto
 
+# crearProducto("30", "Leche", 2500, 5)
+# eliminarProducto("20")
 
-if __name__ == "__main__":
-    mostrarProducto()
+actualizarProducto("30", "Leche Descremada", 3000, 10)
