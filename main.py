@@ -1,7 +1,4 @@
-#
-from backend.producto import actualizarProducto
+from frontend.menu import mostrarProducto
 
-# crearProducto("30", "Leche", 2500, 5)
-# eliminarProducto("20")
-
-actualizarProducto("30", "Leche Descremada", 3000, 10)
+if __name__ == "__main__":
+    mostrarProducto()
